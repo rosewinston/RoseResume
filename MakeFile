@@ -1,0 +1,4 @@
+# Make file to move file for Resume
+
+copy: $*
+	cp -r * /var/www/html/Resume/
